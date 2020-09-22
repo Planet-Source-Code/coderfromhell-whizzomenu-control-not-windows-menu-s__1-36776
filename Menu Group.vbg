@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=WhizzoMenu.vbp
+StartupProject=Tester\TestProject.vbp
